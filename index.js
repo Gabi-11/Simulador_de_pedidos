@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var pedido_1 = require("./pedido");
+var enum_1 = require("./enum");
+var pedido1 = new pedido_1.Pedido();
+pedido1.adicionarItem("Hambúrguer", 10);
+pedido1.adicionarItem("Batata Frita", 5);
+console.log("Itens do Pedido 1:", pedido1.itensPedidos);
+console.log("Valor Total do Pedido 1:", pedido1.calcularValorTotal());
+pedido1.atualizarStatus(enum_1.StatusPedido.EM_ANDAMENTO);
+console.log("Status do Pedido 1:", pedido1.status);
