@@ -37,38 +37,7 @@ Este projeto foi desenvolvido como Trabalho de Conclusão de Curso, utilizando t
 
 ---
 
-## 🚀 Como executar o projeto
-
-1️⃣ Clone o repositório:
-
-git clone https://github.com/TomasVargasV/SkateForAll.git
-2️⃣ Abra o projeto no Android Studio ou VS Code com Flutter configurado.
-
-3️⃣ Execute os comandos abaixo:
-
-bash
-Copiar código
-flutter pub get
-flutter run
-⚠️ É necessário ter um dispositivo ou emulador configurado para execução.
-
-🖼️ Protótipos
-Você pode visualizar os protótipos utilizados para guiar o desenvolvimento clicando aqui.
-
-🤝 Contribuições
-Contribuições são bem-vindas para evoluir o projeto:
-
-Criação de novas funcionalidades
-
-Correção de bugs
-
-Melhorias na interface
-
-Sugestões de acessibilidade
-
-Abra um Issue ou envie um Pull Request explicando sua contribuição.
-
-🧑‍💻 Autor
+## 🧑‍💻 Autores
 Cauã Soares, Gabriel de Graaf, Maurício Vieira, Tomás Vieira, Murilo Rihan
 
 📜 Licença
