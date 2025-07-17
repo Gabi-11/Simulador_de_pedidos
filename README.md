@@ -69,32 +69,7 @@ Sugestões de acessibilidade
 Abra um Issue ou envie um Pull Request explicando sua contribuição.
 
 🧑‍💻 Autor
-Tomas Vargas V.
-GitHub • LinkedIn
+Cauã Soares, Gabriel de Graaf, Maurício Vieira, Tomás Vieira, Murilo Rihan
 
 📜 Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
-
-yaml
-Copiar código
-
----
-
-### Como utilizar
-
-✅ Copie todo o conteúdo acima e cole em seu `README.md` no repositório.
-
-✅ Se desejar, posso gerar também:
-- **Versão em inglês** para ampliar seu alcance no GitHub.
-- **Badges do GitHub Actions, issues abertas e licença** para deixar o README mais profissional.
-- **Imagem de capa do app** no topo, caso tenha uma tela ou logo para destacar.
-
-Avise caso deseje algum desses complementos para melhorar a apresentação do seu repositório.
-
-
-
-
-
-
-
-Perguntar ao ChatGPT
